@@ -1,0 +1,18 @@
+{
+  "vendor": "Padma Electronics",
+  "invoice_number": "PE/11/204",
+  "date": "2026-11-02",
+  "items": [
+    {
+      "description": "Router",
+      "quantity": 1,
+      "unit_price": 60.0
+    },
+    {
+      "description": "LAN cable",
+      "quantity": 3,
+      "unit_price": 4.0
+    }
+  ],
+  "total": 72.0
+}

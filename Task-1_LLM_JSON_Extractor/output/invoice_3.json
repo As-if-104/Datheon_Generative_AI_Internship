@@ -1,0 +1,18 @@
+{
+  "vendor": "Dhaka Tech Hub",
+  "invoice_number": "INV-5530",
+  "date": "2026-10-28",
+  "items": [
+    {
+      "description": "monitors",
+      "quantity": 2,
+      "unit_price": 150.0
+    },
+    {
+      "description": "keyboard",
+      "quantity": 1,
+      "unit_price": 45.0
+    }
+  ],
+  "total": 345.0
+}

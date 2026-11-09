@@ -1,0 +1,23 @@
+{
+  "vendor": "Green Leaf Stationery",
+  "invoice_number": "GL-2026-087",
+  "date": "2026-10-12",
+  "items": [
+    {
+      "description": "notebooks",
+      "quantity": 10,
+      "unit_price": 3.5
+    },
+    {
+      "description": "pens",
+      "quantity": 5,
+      "unit_price": 1.2
+    },
+    {
+      "description": "stapler",
+      "quantity": 1,
+      "unit_price": 8.0
+    }
+  ],
+  "total": 49.0
+}

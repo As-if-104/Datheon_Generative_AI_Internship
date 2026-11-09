@@ -1,0 +1,7 @@
+TAX INVOICE
+Vendor: Padma Electronics
+Ref: PE/11/204
+Issued: 02-11-2026
+1 x Router = $60
+3 x LAN cable = $4 each
+Amount payable: $72

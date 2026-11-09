@@ -1,0 +1,9 @@
+INVOICE
+From: Green Leaf Stationery
+Invoice No: GL-2026-087
+Date: October 12, 2026
+Items:
+- 10 notebooks @ $3.50 = $35.00
+- 5 pens @ $1.20 = $6.00
+- 1 stapler @ $8.00 = $8.00
+Total: $49.00
